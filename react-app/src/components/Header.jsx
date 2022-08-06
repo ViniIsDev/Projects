@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 class Header extends Component {
     render() {
-        return <header><h1>Cabeçalho Aqui!</h1></header>
+        return <header><h1>Feita alteração</h1></header>
     }
 };
 
